@@ -1,1 +1,1 @@
-CMake wrapper for the NuGet package manager.
+CMake wrapper for NuGet.
