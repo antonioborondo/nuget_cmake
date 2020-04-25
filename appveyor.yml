@@ -7,5 +7,5 @@ install:
 build_script:
   - cmd: mkdir build
   - cmd: cd build
-  - cmd: cmake -G "Visual Studio 16 2019" ..\
+  - cmd: cmake -G "Visual Studio 16 2019" ..
   - cmd: cmake --build . --config Release
